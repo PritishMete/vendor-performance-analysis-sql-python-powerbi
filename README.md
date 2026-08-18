@@ -60,16 +60,15 @@ vendor-performance-analysis/
 ├── requirements.txt
 ├── Vendor Performance Report.pdf
 │
-├── notebooks/                  # Jupyter notebooks
-│   ├── exploratory_data_analysis.ipynb
-│   ├── vendor_performance_analysis.ipynb
+├── notebook/                  # Jupyter notebooks
+│   ├── vendor_analysis.ipynb
 │
 ├── scripts/                    # Python scripts for ingestion and processing
 │   ├── ingestion_db.py
 │   └── get_vendor_summary.py
 │
 ├── dashboard/                  # Power BI dashboard file
-│   └── vendor_performance_dashboard.pbix
+│   └── vendor_performance.pbix
 ```
 
 ---
@@ -157,6 +156,6 @@ python scripts/get_vendor_summary.py
 
 **Ayushi Mishra**  
 Data Analyst  
-📧 Email: techclasses0810@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/)  
-🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
+📧 Email: jaiphotoshoot@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/pritish-mete-213a03368/)  
+🔗 [Portfolio]()
