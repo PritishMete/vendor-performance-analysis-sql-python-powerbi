@@ -215,7 +215,6 @@ vendor-performance-analysis-sql-python-powerbi/
 │   ├── purchase_prices.csv
 │   ├── end_inventory.csv
 │   ├── vendor_invoice.csv
-│   ├── vendor_sales_summary.csv
 │   ├── purchases.csv
 │   └── sales.csv
 │
