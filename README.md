@@ -131,7 +131,6 @@ vendor-performance-analysis-sql-python-powerbi/
 │   ├── purchase_prices.csv
 │   ├── end_inventory.csv
 │   ├── vendor_invoice.csv
-│   ├── vendor_sales_summary.csv
 │   ├── purchases.csv
 │   └── sales.csv
 │
@@ -156,7 +155,6 @@ The dataset contains several large CSV files. In the notebook's ingestion output
 * `purchase_prices.csv` is approximately 1 MB
 * `end_inventory.csv` is approximately 18.10 MB
 * `vendor_invoice.csv` is approximately 0.49 MB
-* `vendor_sales_summary.csv` is approximately 2.04 MB
 * `purchases.csv` is approximately 344.83 MB
 * `sales.csv` is approximately 1.52 GB
 
