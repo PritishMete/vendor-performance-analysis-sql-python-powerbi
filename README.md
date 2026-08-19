@@ -93,7 +93,6 @@ The dataset contains information related to:
 * Sales
 * Purchase prices
 * Vendor invoices
-* Vendor sales summaries
 
 ### Dataset Files
 
@@ -105,7 +104,6 @@ The analysis uses the following seven CSV files:
 | `purchase_prices.csv`      | Product purchase price information |
 | `end_inventory.csv`        | Ending inventory information       |
 | `vendor_invoice.csv`       | Vendor invoice information         |
-| `vendor_sales_summary.csv` | Vendor-level sales summary         |
 | `purchases.csv`            | Purchase transaction data          |
 | `sales.csv`                | Sales transaction data             |
 
